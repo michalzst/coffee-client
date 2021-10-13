@@ -55,7 +55,7 @@
         <dependency>
             <groupId>com.vaadin</groupId>
             <artifactId>vaadin-server</artifactId>
-            <version>8.8.3</version>
+            <version>8.14.1</version>
         </dependency>
     </dependencies>
 
